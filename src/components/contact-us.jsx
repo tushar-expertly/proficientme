@@ -146,7 +146,7 @@ function ContactUs() {
               </p>
               <p className="mt-2 text-blue-500 dark:text-blue-400">
                 89 Woodlands Rd, Glasgow G3 6HB, United Kingdom <br />
-                1512 W 19th St Jacksonville, FL 32209 US
+                1434 Linn St. Cincinnati, OH 45214 USA
               </p>
             </div>
           </div>
